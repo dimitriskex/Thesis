@@ -4,5 +4,9 @@ Links:
 
 - https://www.kaggle.com/datasets/maciejgronczynski/biggest-genderface-recognition-dataset
 
+Χρήση AI:
+https://www.stlouisfed.org/on-the-economy/2025/nov/state-generative-ai-adoption-2025
+
 Gender Bias:
 https://thegradient.pub/gender-bias-in-ai
+
