@@ -1,4 +1,8 @@
 Links:
 
 - https://www.kaggle.com/datasets/snmahsa/human-images-dataset-men-and-women
+
 - https://www.kaggle.com/datasets/maciejgronczynski/biggest-genderface-recognition-dataset
+
+Gender Bias:
+https://thegradient.pub/gender-bias-in-ai
