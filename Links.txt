@@ -10,5 +10,6 @@ https://www.stlouisfed.org/on-the-economy/2025/nov/state-generative-ai-adoption-
 Gender Bias:
 https://thegradient.pub/gender-bias-in-ai
 https://www.sciencedirect.com/science/article/pii/S2949882125000295#sec3
-
+https://arxiv.org/abs/2502.18434
+https://arxiv.org/abs/2002.00065
 
